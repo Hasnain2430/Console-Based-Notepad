@@ -44,3 +44,8 @@ If you type `codding`, the application might suggest:
 ```
 codding => coding
 ```
+
+
+## Contributing
+
+Feel free to contribute to this project by creating pull requests, reporting issues, or suggesting new features.
